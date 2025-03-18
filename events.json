@@ -1,0 +1,172 @@
+{
+    "events": [
+        {
+            "name": "Despertar y Meditación",
+            "date": "2025-03-18",
+            "time": "05:00",
+            "description": "Meditar para comenzar el día"
+        },
+        {
+            "name": "Desayuno Saludable",
+            "date": "2025-03-18",
+            "time": "05:10",
+            "description": "Desayuno saludable"
+        },
+        {
+            "name": "Alistamiento Personal",
+            "date": "2025-03-18",
+            "time": "05:30",
+            "description": "Prepararse para el día"
+        },
+        {
+            "name": "Preparar a los Hijos",
+            "date": "2025-03-18",
+            "time": "05:50",
+            "description": "Preparar a los hijos para el colegio"
+        },
+        {
+            "name": "Traslado al Trabajo",
+            "date": "2025-03-18",
+            "time": "06:00",
+            "description": "Viaje al trabajo"
+        },
+        {
+            "name": "Trabajo Productivo",
+            "date": "2025-03-18",
+            "time": "08:30",
+            "description": "Trabajo enfocado en tareas clave"
+        },
+        {
+            "name": "Almuerzo",
+            "date": "2025-03-18",
+            "time": "12:00",
+            "description": "Almuerzo saludable"
+        },
+        {
+            "name": "Trabajo Productivo",
+            "date": "2025-03-18",
+            "time": "01:00",
+            "description": "Trabajo productivo"
+        },
+        {
+            "name": "Traslado a Casa",
+            "date": "2025-03-18",
+            "time": "05:30",
+            "description": "Regreso a casa"
+        },
+        {
+            "name": "Cena Familiar",
+            "date": "2025-03-18",
+            "time": "07:00",
+            "description": "Cena ligera en familia"
+        },
+        {
+            "name": "Tiempo con los Hijos",
+            "date": "2025-03-18",
+            "time": "07:30",
+            "description": "Compartir tiempo en familia"
+        },
+        {
+            "name": "Revisión de Pendientes",
+            "date": "2025-03-18",
+            "time": "08:30",
+            "description": "Revisión de proyectos o tareas personales"
+        },
+        {
+            "name": "Rutina de Autocuidado",
+            "date": "2025-03-18",
+            "time": "09:30",
+            "description": "Lectura, meditación o autocuidado"
+        },
+        {
+            "name": "Preparación para Dormir",
+            "date": "2025-03-18",
+            "time": "10:00",
+            "description": "Preparación para descansar"
+        },
+        {
+            "name": "Despertar y Meditación",
+            "date": "2025-03-19",
+            "time": "05:00",
+            "description": "Meditar para comenzar el día"
+        },
+        {
+            "name": "Desayuno Saludable",
+            "date": "2025-03-19",
+            "time": "05:10",
+            "description": "Desayuno saludable"
+        },
+        {
+            "name": "Alistamiento Personal",
+            "date": "2025-03-19",
+            "time": "05:30",
+            "description": "Prepararse para el día"
+        },
+        {
+            "name": "Preparar a los Hijos",
+            "date": "2025-03-19",
+            "time": "05:50",
+            "description": "Preparar a los hijos para el colegio"
+        },
+        {
+            "name": "Traslado al Trabajo",
+            "date": "2025-03-19",
+            "time": "06:00",
+            "description": "Viaje al trabajo"
+        },
+        {
+            "name": "Trabajo Productivo",
+            "date": "2025-03-19",
+            "time": "08:30",
+            "description": "Trabajo enfocado en tareas clave"
+        },
+        {
+            "name": "Almuerzo",
+            "date": "2025-03-19",
+            "time": "12:00",
+            "description": "Almuerzo saludable"
+        },
+        {
+            "name": "Trabajo Productivo",
+            "date": "2025-03-19",
+            "time": "01:00",
+            "description": "Trabajo productivo"
+        },
+        {
+            "name": "Traslado a Casa",
+            "date": "2025-03-19",
+            "time": "05:30",
+            "description": "Regreso a casa"
+        },
+        {
+            "name": "Cena Familiar",
+            "date": "2025-03-19",
+            "time": "07:00",
+            "description": "Cena ligera en familia"
+        },
+        {
+            "name": "Tiempo con los Hijos",
+            "date": "2025-03-19",
+            "time": "07:30",
+            "description": "Compartir tiempo en familia"
+        },
+        {
+            "name": "Revisión de Pendientes",
+            "date": "2025-03-19",
+            "time": "08:30",
+            "description": "Revisión de proyectos o tareas personales"
+        },
+        {
+            "name": "Rutina de Autocuidado",
+            "date": "2025-03-19",
+            "time": "09:30",
+            "description": "Lectura, meditación o autocuidado"
+        },
+        {
+            "name": "Preparación para Dormir",
+            "date": "2025-03-19",
+            "time": "10:00",
+            "description": "Preparación para descansar"
+        }
+    ]
+}
